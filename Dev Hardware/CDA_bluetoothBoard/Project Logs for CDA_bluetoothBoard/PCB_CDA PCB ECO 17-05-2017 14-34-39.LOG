@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetArduino_2 Pin=Pinos de gravação-3
+Removed Pin From Net: NetName=NetArduino_3 Pin=Pinos de gravação-4
+Added Pin To Net: NetName=NetArduino_3 Pin=Pinos de gravação-3
+Added Pin To Net: NetName=NetArduino_2 Pin=Pinos de gravação-4
+Added Room: Name=Sch_CDA

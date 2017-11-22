@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetArduino_9 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=NetArduino_10 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=Sch_CDA Member=C1
+Removed Member From Class: ClassName=Sch_CDA Member=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C1R
+Change Component Designator: OldDesignator=C? NewDesignator=C2R
+Added Component: Designator=C1G(CAPR5-4X5)
+Added Component: Designator=C2G(CAPR5-4X5)
+Added Pin To Net: NetName=NetArduino_9 Pin=C1G-1
+Added Pin To Net: NetName=GND Pin=C1G-2
+Added Pin To Net: NetName=NetArduino_10 Pin=C2G-1
+Added Pin To Net: NetName=GND Pin=C2G-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1R_2
+Added Pin To Net: NetName=NetArduino_4 Pin=Arduino-4
+Added Pin To Net: NetName=NetArduino_4 Pin=R5-1
+Added Net: Name=NetArduino_4
+Added Member To Class: ClassName=Sch_CDA Member=Component C1G Cap2
+Added Member To Class: ClassName=Sch_CDA Member=Component C2G Cap2
+Added Member To Class: ClassName=Sch_CDA Member=Component C2R Cap2
+Added Room: Name=Sch_CDA

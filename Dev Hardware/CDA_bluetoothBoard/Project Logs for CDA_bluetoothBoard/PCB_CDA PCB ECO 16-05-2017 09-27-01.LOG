@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC-trava_2 Pin=C-trava-3
+Removed Pin From Net: NetName=NetC-trava_1 Pin=RELE-4
+Change Component DesignItemId : Designator=C-trava Old DesignItemId=Header 4 New DesignItemId=Header 2
+Change Component Footprint: Designator=C-trava Old Footprint=HDR1X4 New Footprint=HDR1X2
+Change Component Comment : Designator=C-trava Old Comment=Header 4 New Comment=Header 2
+Added Pin To Net: NetName=NetC-trava_2 Pin=RELE-5
+Added Pin To Net: NetName=NetRELE_4 Pin=RELE-4
+Added Net: Name=NetRELE_4
+Added Room: Name=Sch_CDA

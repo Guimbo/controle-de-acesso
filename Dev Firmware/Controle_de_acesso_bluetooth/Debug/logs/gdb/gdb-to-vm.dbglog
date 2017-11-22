@@ -1,0 +1,23 @@
+=thread-group-added,id="i1"
+~"GNU gdb (GDB) 7.8\n"
+~"Copyright (C) 2014 Free Software Foundation, Inc.\n"
+~"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\nand \"show warranty\" for details.\n"
+~"This GDB was configured as \"--host=i686-pc-mingw32 --target=avr\".\nType \"show configuration\" for configuration details."
+~"\nFor bug reporting instructions, please see:\n"
+~"<http://www.gnu.org/software/gdb/bugs/>.\n"
+~"Find the GDB manual and other documentation resources online at:\n<http://www.gnu.org/software/gdb/documentation/>.\n"
+~"For help, type \"help\".\n"
+~"Type \"apropos word\" to search for commands related to \"word\".\n"
+(gdb) 
+1001^done
+(gdb) 
+1002^done
+(gdb) 
+1003^done
+(gdb) 
+&"file \"C:\\\\Users\\\\guias\\\\AppData\\\\Local\\\\Temp\\\\VMBuilds\\\\Controle_de_acesso_bluetooth\\\\uno\\\\Debug\\\\Controle_de_acesso_bluetooth.ino.elf\"\n"
+~"Reading symbols from C:\\Users\\guias\\AppData\\Local\\Temp\\VMBuilds\\Controle_de_acesso_bluetooth\\uno\\Debug\\Controle_de_acesso_bluetooth.ino.elf..."
+~"done.\n"
+^done
+(gdb) 
+null received from gdb

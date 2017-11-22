@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=Bluetooth Old DesignItemId=COMPONENT_1 New DesignItemId=Header 7
+Change Component Footprint: Designator=Bluetooth Old Footprint=PCBComponent_1 New Footprint=HDR1X7
+Change Component Comment : Designator=Bluetooth Old Comment=COMPONENT_1 New Comment=Header 7
+Added Pin To Net: NetName=NetArduino_3 Pin=Bluetooth-4
+Added Pin To Net: NetName=NetArduino_2 Pin=Bluetooth-5
+Added Pin To Net: NetName=GND-9V Pin=Bluetooth-6
+Added Pin To Net: NetName=NetArduino_20 Pin=Bluetooth-7
+Added Member To Class: ClassName=Sch_CDA Member=Component RTC-P Header 7
+Added Member To Class: ClassName=Sch_CDA Member=Component RTC
+Added Room: Name=Sch_CDA

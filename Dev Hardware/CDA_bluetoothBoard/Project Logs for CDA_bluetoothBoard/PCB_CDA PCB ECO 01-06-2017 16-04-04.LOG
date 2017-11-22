@@ -1,0 +1,5 @@
+Added Component: Designator=6(PNSC-LZ-8-2880x1250x1570_V)
+Added Component: Designator=K?(PNSC-LZ-8-2880x1250x1570_V)
+Added Member To Class: ClassName=Sch_CDA Member=Component 6 ALZ12F48T
+Added Member To Class: ClassName=Sch_CDA Member=Component K? ALZ11B05
+Added Room: Name=Sch_CDA

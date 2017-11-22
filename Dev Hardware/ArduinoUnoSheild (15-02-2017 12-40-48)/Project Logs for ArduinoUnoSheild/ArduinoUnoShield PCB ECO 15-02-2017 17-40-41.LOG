@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=ICSP-6
+Removed Pin From Net: NetName=GND Pin=IOH-7
+Change Component DesignItemId : Designator=CN? Old DesignItemId=KRE2 New DesignItemId=JST-1X5-ZH
+Change Component Footprint: Designator=CN? Old Footprint=KRE2 New Footprint=5-ZH-JST
+Change Component Comment : Designator=CN? Old Comment=KRE2 New Comment=JST-1X5-ZH
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=IO7 Pin=R?-1
+Change Net Name : Old Net Name=GND New Net Name=NetPOWER_2
+Added Pin To Net: NetName=GND - 12V Pin=CN?-5
+Added Pin To Net: NetName=GND - 12V Pin=RL?-3
+Added Net: Name=GND - 12V
+Added Pin To Net: NetName=GND Pin=CN?-1
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=ICSP-6
+Added Pin To Net: NetName=GND Pin=IOH-7
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC - 12V Pin=CN?-4
+Added Pin To Net: NetName=VCC - 12V Pin=RL?-4
+Added Net: Name=VCC - 12V
+Added Pin To Net: NetName=VCC - TRAVA Pin=CN?-3
+Added Pin To Net: NetName=VCC - TRAVA Pin=RL?-5
+Added Net: Name=VCC - TRAVA

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetArduino_7 Pin=Regulador de tensao-1
+Removed Pin From Net: NetName=GND Pin=Regulador de tensao-2
+Removed Pin From Net: NetName=NetC1R_2 Pin=Regulador de tensao-3
+Removed Member From Class: ClassName=Sch_CDA Member=Regulador de tensao
+Added Component: Designator=REG?(TO92-)
+Added Pin To Net: NetName=NetC1R_2 Pin=REG?-1
+Added Pin To Net: NetName=GND Pin=REG?-2
+Added Pin To Net: NetName=NetArduino_7 Pin=REG?-3
+Added Member To Class: ClassName=Sch_CDA Member=Component REG? 7805
+Added Room: Name=Sch_CDA

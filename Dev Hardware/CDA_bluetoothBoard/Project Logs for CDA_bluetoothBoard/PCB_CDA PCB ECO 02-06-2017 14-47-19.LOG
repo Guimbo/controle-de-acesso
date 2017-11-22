@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Net220_1 Pin=Arduino-14
+Added Pin To Net: NetName=Net220_1 Pin=Arduino-26
+Added Room: Name=Sch_CDA

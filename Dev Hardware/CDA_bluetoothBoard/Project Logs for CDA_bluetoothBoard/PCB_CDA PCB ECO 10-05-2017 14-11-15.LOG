@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND-12V Pin=Arduino-22
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=Net16Mhz_2 Pin=C2-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=Cap2
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=CAPR5-4X5
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=Cap2
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=Cap2
+Added Pin To Net: NetName=Net16Mhz_2 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Room: Name=Sch_CDA

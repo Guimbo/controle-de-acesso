@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Sch_CDA Member=6
+Change Component Footprint: Designator=K? Old Footprint=PNSC-LZ-8-2880x1250x1570_V New Footprint=DS2Y
+Added Room: Name=Sch_CDA

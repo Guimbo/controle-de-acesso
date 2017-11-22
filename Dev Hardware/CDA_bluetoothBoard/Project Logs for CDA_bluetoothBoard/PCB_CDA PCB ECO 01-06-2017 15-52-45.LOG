@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Sch_CDA Member=1
+Removed Member From Class: ClassName=Sch_CDA Member=9
+Change Component Designator: OldDesignator=K? NewDesignator=6
+Change Component Designator: OldDesignator=K? NewDesignator=7
+Added Member To Class: ClassName=Sch_CDA Member=Component 6 ALZ12F48T
+Added Member To Class: ClassName=Sch_CDA Member=Component 7 DSP2AL2DC24V
+Added Member To Class: ClassName=Sch_CDA Member=Component 8 ALZ12B24TWT

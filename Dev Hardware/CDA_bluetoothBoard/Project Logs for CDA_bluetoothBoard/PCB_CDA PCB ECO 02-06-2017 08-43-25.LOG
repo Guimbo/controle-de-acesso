@@ -1,0 +1,5 @@
+Added Component: Designator=CN?(AK300/2)
+Added Component: Designator=X?(AK300/2)
+Added Member To Class: ClassName=Sch_CDA Member=Component CN? BORNE 4X5.08
+Added Member To Class: ClassName=Sch_CDA Member=Component X? <b>CONNECTOR</b>
+Added Room: Name=Sch_CDA

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetPOWER_2 Pin=R1-2
+Removed Pin From Net: NetName=NetPOWER_2 Pin=R2-2
+Removed Pin From Net: NetName=NetPOWER_2 Pin=R3-2
+Removed Pin From Net: NetName=NetPOWER_2 Pin=R4-2
+Removed Member From Class: ClassName=ArduinoUnoShield Member=pin1-4
+Removed Member From Class: ClassName=ArduinoUnoShield Member=pin5-8
+Added Component: Designator=RTC pin(HDR1X7)
+Added Component: Designator=RTC(HDR1X5)
+Added Pin To Net: NetName=AD5 Pin=IOH-9
+Added Pin To Net: NetName=AD4 Pin=IOH-10
+Added Pin To Net: NetName=IO6 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=IO5 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=IO4 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=IO3 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetPOWER_2 Pin=RTC-1
+Added Pin To Net: NetName=5V Pin=RTC-2
+Added Pin To Net: NetName=AD5 Pin=RTC-3
+Added Pin To Net: NetName=AD4 Pin=RTC-4
+Added Pin To Net: NetName=IO11 Pin=teclado-1
+Added Pin To Net: NetName=IO10 Pin=teclado-2
+Added Pin To Net: NetName=IO9 Pin=teclado-3
+Added Pin To Net: NetName=IO8 Pin=teclado-4
+Added Pin To Net: NetName=IO6 Pin=teclado-5
+Added Pin To Net: NetName=IO5 Pin=teclado-6
+Added Pin To Net: NetName=IO4 Pin=teclado-7
+Added Pin To Net: NetName=IO3 Pin=teclado-8
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component RTC pin Header 7
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component RTC
+Added Room: Name=ArduinoUnoShield

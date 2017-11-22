@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=ICSP-2
+Removed Pin From Net: NetName=RESET Pin=ICSP-5
+Removed Pin From Net: NetName=GND Pin=ICSP-6
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetPOWER_2 Pin=R1-2
+Added Pin To Net: NetName=NetPOWER_2 Pin=R2-2
+Added Pin To Net: NetName=NetPOWER_2 Pin=R3-2
+Added Pin To Net: NetName=NetPOWER_2 Pin=R4-2
+Added Room: Name=ArduinoUnoShield

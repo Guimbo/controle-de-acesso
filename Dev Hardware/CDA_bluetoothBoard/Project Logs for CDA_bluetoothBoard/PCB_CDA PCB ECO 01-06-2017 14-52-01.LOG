@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND-12V Pin=C-trava-2
+Removed Member From Class: ClassName=Sch_CDA Member=C-trava
+Change Component Designator: OldDesignator=D1 NewDesignator=dRel
+Change Component Designator: OldDesignator=REG? NewDesignator=Reg
+Change Component Designator: OldDesignator=RR NewDesignator=220
+Change Component Designator: OldDesignator=RTC pin NewDesignator=RTC-P
+Added Component: Designator=Lock(HDR1X2)
+Added Pin To Net: NetName=GND-12V Pin=Arduino-21
+Added Pin To Net: NetName=GND-12V Pin=Lock-2
+Change Net Name : Old Net Name=NetArduino_4 New Net Name=Net220_1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetdRel_1
+Change Net Name : Old Net Name=NetRR_2 New Net Name=Net220_2
+Added Pin To Net: NetName=NetLock_1 Pin=Lock-1
+Added Pin To Net: NetName=NetLock_1 Pin=RELE-5
+Added Net: Name=NetLock_1
+Added Member To Class: ClassName=Sch_CDA Member=Component Lock Header 2

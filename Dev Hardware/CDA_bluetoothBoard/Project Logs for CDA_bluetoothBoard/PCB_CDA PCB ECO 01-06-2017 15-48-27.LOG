@@ -1,0 +1,27 @@
+Added Component: Designator=1(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=2(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=3(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=4(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=5(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=6(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=7(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=8(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DE-8-2500x1250x1250_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Component: Designator=K?(PNSC-DSP-8-2020x1100x1050_V)
+Added Member To Class: ClassName=Sch_CDA Member=Component 1 DE1AL23D
+Added Member To Class: ClassName=Sch_CDA Member=Component 2 DE2AL23D
+Added Member To Class: ClassName=Sch_CDA Member=Component 3 DE1AL25D
+Added Member To Class: ClassName=Sch_CDA Member=Component 4 DE1AL212D
+Added Member To Class: ClassName=Sch_CDA Member=Component 5 DE1A1BL224D
+Added Member To Class: ClassName=Sch_CDA Member=Component 6 DE2AL212D
+Added Member To Class: ClassName=Sch_CDA Member=Component 7 DE2AL26D
+Added Member To Class: ClassName=Sch_CDA Member=Component 8 DSP1L2DC12VF
+Added Member To Class: ClassName=Sch_CDA Member=Component K? ALZ12B24TWT
+Added Room: Name=Sch_CDA

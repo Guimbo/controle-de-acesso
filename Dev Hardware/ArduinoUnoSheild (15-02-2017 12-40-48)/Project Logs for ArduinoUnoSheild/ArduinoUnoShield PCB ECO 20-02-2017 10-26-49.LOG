@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=CN?-1
+Removed Pin From Net: NetName=GND Pin=CN?-2
+Removed Pin From Net: NetName=VCC - TRAVA Pin=CN?-3
+Removed Pin From Net: NetName=VCC - 12V Pin=CN?-4
+Removed Pin From Net: NetName=GND - 12V Pin=CN?-5
+Removed Member From Class: ClassName=ArduinoUnoShield Member=CN?
+Added Component: Designator=C-Trava(HDR1X5)
+Added Pin To Net: NetName=GND - 12V Pin=C-Trava-1
+Added Pin To Net: NetName=VCC - 12V Pin=C-Trava-2
+Added Pin To Net: NetName=VCC - TRAVA Pin=C-Trava-3
+Added Pin To Net: NetName=GND Pin=C-Trava-4
+Added Pin To Net: NetName=GND Pin=C-Trava-5
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C-Trava Header 5
+Added Room: Name=ArduinoUnoShield

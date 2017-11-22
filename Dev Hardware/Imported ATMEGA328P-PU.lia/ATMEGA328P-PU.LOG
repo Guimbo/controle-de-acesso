@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : ATMEGA328P-PU.LibPkg
+
+Section : C:\Users\guias\Downloads\ATMEGA328P-PU.lia
+    Section : PCB Library - ATMEGA328P-PU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATMEGA328P-PU On Line 143
+            Warning - 1 : Skipping Token attachedSymbol On Line 449
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATMEGA328P-PU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 133
+        EndSection
+
+        Section : Generating SCH Library - ATMEGA328P-PU.SchLib
+        EndSection
+    EndSection
+EndSection

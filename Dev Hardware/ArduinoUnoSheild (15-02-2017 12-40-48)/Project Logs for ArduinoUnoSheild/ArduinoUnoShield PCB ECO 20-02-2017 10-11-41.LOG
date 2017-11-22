@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AD5 Pin=IOH-9
+Removed Pin From Net: NetName=AD4 Pin=IOH-10
+Added Pin To Net: NetName=SCL Pin=IOH-10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IOH-9
+Added Net: Name=SDA
+Added Room: Name=ArduinoUnoShield

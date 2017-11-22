@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CDA_bluetoothBoard.PrjPcb|ReportField=ProjectFullPath~C:\Users\Guilherme\Desktop\CDA\controle-de-acesso\Dev Hardware\CDA_bluetoothBoard\CDA_bluetoothBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [CDA_bluetoothBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~19|ReportField=ReportTime~14:33:52|ReportField=ReportDate~16/05/2017|ReportField=ReportDateTime~16/05/2017 14:33:52|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~16/05/2017|ReportField=CurrentTime~14:33:46|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Guilherme\Desktop\CDA\controle-de-acesso\Dev Hardware\CDA_bluetoothBoard\Sch_CDA.SchDoc|ReportField=DocumentName~Sch_CDA.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~16/05/2017|ReportField=Organization~|ReportField=ProjectName~CDA_bluetoothBoard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~CDA_bluetoothBoard.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Guilherme\Desktop\CDA\controle-de-acesso\Dev Hardware\CDA_bluetoothBoard\CDA_bluetoothBoard.PrjPcb
+ATmega328P-PU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C)|Arduino|28P3|ATmega328P-PU|1
+Header 2|Header, 2-Pin|Bateria, C-TRAVA|HDR1X2|Header 2|2
+Header 7|Header, 7-Pin|Bluetooth, RTC pin|HDR1X7|Header 7|2
+Cap2|Capacitor|C1G, C1R, C2G, C2R|CAPR5-4X5|Cap2|4
+Diode 1N4007|1 Amp General Purpose Rectifier|D1|DO-41|Diode 1N4007|1
+Diode 1N4148|High Conductance Fast Diode|DREG|DO-35|Diode 1N4148|1
+Header 5|Header, 5-Pin|Pinos de gravação|HDR1X5|Header 5|1
+2N3904|NPN General Purpose Amplifier|Q?|TO-92A|2N3904|1
+7805|5V Positive IC TO-220 Voltage Reg IC TO-220 VOLTAGE REG 5V POSITIVE|REG?|TO92-|7805|1
+RELE|RELE|RELE|RELE|RELE|1
+Res2|Resistor|RR|AXIAL-0.4|Res2|1
+RTC|Header, 5-Pin|RTC|HDR1X5|Header 5|1
+Header 8|Header, 8-Pin|SD- Reader|HDR1X8|Header 8|1
+CRISTAL|CRISTAL|XTAL|CRISTAL|CRISTAL|1

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetArduino_7 Pin=RELE-1
+Removed Pin From Net: NetName=NetdRel_1 Pin=RELE-2
+Removed Pin From Net: NetName=VCC-12V Pin=RELE-4
+Removed Pin From Net: NetName=NetLock_1 Pin=RELE-5
+Removed Member From Class: ClassName=Sch_CDA Member=RELE
+Change Component Designator: OldDesignator=K? NewDesignator=relé
+Added Pin To Net: NetName=NetdRel_1 Pin=relé-1
+Added Pin To Net: NetName=VCC-12V Pin=relé-2
+Added Pin To Net: NetName=NetLock_1 Pin=relé-5
+Added Pin To Net: NetName=NetArduino_7 Pin=relé-8
+Added Room: Name=Sch_CDA

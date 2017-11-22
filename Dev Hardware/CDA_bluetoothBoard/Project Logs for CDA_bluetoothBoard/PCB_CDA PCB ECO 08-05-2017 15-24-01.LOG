@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=U? NewDesignator=Arduino
+Change Component Designator: OldDesignator=U? NewDesignator=Regulador de tensao
+Change Net Name : Old Net Name=NetBluetooth_1 New Net Name=NetArduino_7
+Change Net Name : Old Net Name=NetBluetooth_3 New Net Name=NetArduino_3
+Change Net Name : Old Net Name=NetBluetooth_4 New Net Name=NetArduino_2
+Change Net Name : Old Net Name=NetPinos de gravação_5 New Net Name=NetArduino_1
+Change Net Name : Old Net Name=NetRTC pin_4 New Net Name=NetArduino_28
+Change Net Name : Old Net Name=NetRTC pin_5 New Net Name=NetArduino_27
+Change Net Name : Old Net Name=NetSD- Reader_2 New Net Name=NetArduino_18
+Change Net Name : Old Net Name=NetSD- Reader_3 New Net Name=NetArduino_19
+Change Net Name : Old Net Name=NetSD- Reader_4 New Net Name=NetArduino_17
+Change Net Name : Old Net Name=NetSD- Reader_5 New Net Name=NetArduino_6
+Added Member To Class: ClassName=Sch_CDA Member=Component Arduino ATmega328P-PU
+Added Room: Name=Sch_CDA

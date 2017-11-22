@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetArduino_18 Pin=SD- Reader-2
+Removed Pin From Net: NetName=NetArduino_19 Pin=SD- Reader-3
+Removed Pin From Net: NetName=NetArduino_17 Pin=SD- Reader-4
+Removed Pin From Net: NetName=NetArduino_6 Pin=SD- Reader-5
+Removed Pin From Net: NetName=GND-9V Pin=SD- Reader-8
+Change Component DesignItemId : Designator=SD- Reader Old DesignItemId=Header 8 New DesignItemId=Header 8X2
+Change Component Footprint: Designator=SD- Reader Old Footprint=HDR1X8 New Footprint=HDR2X8
+Change Component Comment : Designator=SD- Reader Old Comment=Header 8 New Comment=Header 8X2
+Added Pin To Net: NetName=GND-9V Pin=SD- Reader-1
+Added Pin To Net: NetName=GND-9V Pin=SD- Reader-2
+Added Pin To Net: NetName=NetArduino_7 Pin=SD- Reader-5
+Added Pin To Net: NetName=NetArduino_6 Pin=SD- Reader-7
+Added Pin To Net: NetName=NetArduino_6 Pin=SD- Reader-8
+Added Pin To Net: NetName=NetArduino_17 Pin=SD- Reader-9
+Added Pin To Net: NetName=NetArduino_17 Pin=SD- Reader-10
+Added Pin To Net: NetName=NetArduino_19 Pin=SD- Reader-11
+Added Pin To Net: NetName=NetArduino_19 Pin=SD- Reader-12
+Added Pin To Net: NetName=NetArduino_18 Pin=SD- Reader-13
+Added Pin To Net: NetName=NetSD- Reader_3 Pin=SD- Reader-3
+Added Pin To Net: NetName=NetSD- Reader_3 Pin=SD- Reader-4
+Added Net: Name=NetSD- Reader_3
+Added Pin To Net: NetName=NetSD- Reader_15 Pin=SD- Reader-15
+Added Pin To Net: NetName=NetSD- Reader_15 Pin=SD- Reader-16
+Added Net: Name=NetSD- Reader_15
+Added Room: Name=Sch_CDA

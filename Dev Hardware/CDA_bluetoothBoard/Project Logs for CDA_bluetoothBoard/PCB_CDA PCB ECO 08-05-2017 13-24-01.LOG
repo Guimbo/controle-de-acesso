@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND-12V Pin=100nF-1
+Removed Pin From Net: NetName=Net100nF_1 Pin=100nF-1
+Removed Pin From Net: NetName=GND-12V Pin=100nF-2
+Removed Member From Class: ClassName=Sch_CDA Member=100nF
+Added Component: Designator=C?(CAPR5-4X5)
+Added Component: Designator=C?(CAPR5-4X5)
+Added Pin To Net: NetName=GND-12V Pin=C?-1
+Added Pin To Net: NetName=Net100nF_1 Pin=C?-1
+Added Pin To Net: NetName=GND-12V Pin=C?-2
+Change Net Name : Old Net Name=Net100nF_1 New Net Name=NetBluetooth_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=Sch_CDA Member=Component C? Cap2
+Added Room: Name=Sch_CDA

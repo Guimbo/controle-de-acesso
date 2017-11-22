@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND-12V Pin=Bluetooth-2
+Removed Pin From Net: NetName=GND-12V Pin=Q?-1
+Removed Pin From Net: NetName=GND-12V Pin=SD- Reader-8
+Change Component Designator: OldDesignator=Bateria NewDesignator=bat
+Change Component Designator: OldDesignator=Q? NewDesignator=Trs
+Added Pin To Net: NetName=GND-12V Pin=Arduino-22
+Added Pin To Net: NetName=GND-12V Pin=C1G-2
+Added Pin To Net: NetName=GND-12V Pin=C2G-2
+Added Pin To Net: NetName=GND-12V Pin=REG?-2
+Added Pin To Net: NetName=NetC-trava_1 Pin=RELE-4
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetRR_2
+Added Pin To Net: NetName=NetBluetooth_2 Pin=Bluetooth-2
+Added Pin To Net: NetName=NetBluetooth_2 Pin=SD- Reader-8
+Added Pin To Net: NetName=NetBluetooth_2 Pin=Trs-1
+Added Net: Name=NetBluetooth_2
+Added Room: Name=Sch_CDA

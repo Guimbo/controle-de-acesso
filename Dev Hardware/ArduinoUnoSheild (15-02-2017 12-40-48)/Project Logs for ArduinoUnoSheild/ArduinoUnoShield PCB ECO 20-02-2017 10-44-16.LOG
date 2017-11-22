@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C-Trava-4
+Removed Pin From Net: NetName=GND Pin=C-Trava-5
+Change Component DesignItemId : Designator=C-Trava Old DesignItemId=Header 5 New DesignItemId=Header 4
+Change Component Footprint: Designator=C-Trava Old Footprint=HDR1X5 New Footprint=HDR1X4
+Change Component Comment : Designator=C-Trava Old Comment=Header 5 New Comment=Header 4
+Change Net Name : Old Net Name=VCC - 12V New Net Name=NetC-trava_2
+Added Pin To Net: NetName=NetC-trava_1 Pin=C-Trava-1
+Added Pin To Net: NetName=NetC-trava_1 Pin=C-Trava-4
+Added Pin To Net: NetName=NetC-trava_1 Pin=RL?-3
+Added Net: Name=NetC-trava_1
+Added Room: Name=ArduinoUnoShield

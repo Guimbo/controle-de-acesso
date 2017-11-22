@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Sch_CDA Member=16Mhz
+Added Component: Designator=XTAL(CRISTAL)
+Added Pin To Net: NetName=NetArduino_9 Pin=Arduino-9
+Added Pin To Net: NetName=NetArduino_9 Pin=C1-1
+Added Pin To Net: NetName=NetArduino_9 Pin=XTAL-2
+Added Net: Name=NetArduino_9
+Added Pin To Net: NetName=NetArduino_10 Pin=Arduino-10
+Added Pin To Net: NetName=NetArduino_10 Pin=C2-1
+Added Pin To Net: NetName=NetArduino_10 Pin=XTAL-1
+Added Net: Name=NetArduino_10
+Added Member To Class: ClassName=Sch_CDA Member=Component XTAL CRISTAL
+Added Room: Name=Sch_CDA

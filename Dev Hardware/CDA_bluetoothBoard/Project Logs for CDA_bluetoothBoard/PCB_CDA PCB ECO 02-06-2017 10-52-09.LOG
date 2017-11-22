@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=LEDV NewDesignator=LEDG
+Change Component Designator: OldDesignator=R? NewDesignator=LR
+Change Component Designator: OldDesignator=R? NewDesignator=RG
+Change Net Name : Old Net Name=NetLEDV_1 New Net Name=NetLEDG_1
+Added Member To Class: ClassName=Sch_CDA Member=Component RG Res2

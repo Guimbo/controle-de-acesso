@@ -1,0 +1,9 @@
+1001-gdb-set target-async on
+1002-gdb-set solib-search-path C:\\Users\\guias\\Desktop\\Controle de acesso\\controle-de-acesso\\Dev Firmware\\Controle_de_acesso_bluetooth\\Debug;
+1003-gdb-set stop-on-solib-events 1
+1004-environment-cd "C:\\Users\\guias\\Desktop\\Controle de acesso\\controle-de-acesso\\Dev Firmware\\Controle_de_acesso_bluetooth\\Debug"
+1005-interpreter-exec console "show configuration"
+1006-file-exec-and-symbols "C:\\Users\\guias\\Desktop\\Controle de acesso\\controle-de-acesso\\Dev Firmware\\Controle_de_acesso_bluetooth\\Debug\\Controle_de_acesso_bluetooth.ino.elf"
+1007-exec-arguments -d C:\Users\guias\Desktop\Controle de acesso\controle-de-acesso\Dev Firmware\Controle_de_acesso_bluetooth\
+1008-break-insert main
+1009-target-select remote localhost:3333

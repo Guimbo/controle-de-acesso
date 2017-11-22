@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND-9V Pin=Bluetooth-6
+Removed Pin From Net: NetName=NetArduino_20 Pin=Bluetooth-7
+Removed Member From Class: ClassName=Sch_CDA Member=Bluetooth
+Change Net Name : Old Net Name=NetArduino_20 New Net Name=Net*_1
+Added Pin To Net: NetName=Net*_3 Pin=Arduino-2
+Added Pin To Net: NetName=Net*_3 Pin=Pgrav-4
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=Arduino-3
+Added Pin To Net: NetName=Net*_4 Pin=Pgrav-3
+Added Net: Name=Net*_4
+Added Room: Name=Sch_CDA

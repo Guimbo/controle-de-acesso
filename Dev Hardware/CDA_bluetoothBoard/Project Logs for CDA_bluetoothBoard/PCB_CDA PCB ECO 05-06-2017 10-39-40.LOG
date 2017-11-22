@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetArduino_3 Pin=Bluetooth-4
+Removed Pin From Net: NetName=NetArduino_2 Pin=Bluetooth-5
+Removed Pin From Net: NetName=GND-9V Pin=Bluetooth-6
+Removed Pin From Net: NetName=NetArduino_20 Pin=Bluetooth-7
+Change Component DesignItemId : Designator=Bluetooth Old DesignItemId=Header 7 New DesignItemId=COMPONENT_1
+Change Component Footprint: Designator=Bluetooth Old Footprint=HDR1X7 New Footprint=PCBComponent_1
+Change Component Comment : Designator=Bluetooth Old Comment=Header 7 New Comment=COMPONENT_1
+Added Room: Name=Sch_CDA

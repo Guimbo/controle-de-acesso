@@ -1,0 +1,17 @@
+Added Component: Designator=16Mhz(R38)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Net16Mhz_1 Pin=16Mhz-1
+Added Pin To Net: NetName=Net16Mhz_1 Pin=C1-1
+Added Pin To Net: NetName=Net16Mhz_1 Pin=U?-9
+Added Net: Name=Net16Mhz_1
+Added Pin To Net: NetName=Net16Mhz_2 Pin=16Mhz-2
+Added Pin To Net: NetName=Net16Mhz_2 Pin=C2-2
+Added Pin To Net: NetName=Net16Mhz_2 Pin=U?-10
+Added Net: Name=Net16Mhz_2
+Added Member To Class: ClassName=Sch_CDA Member=Component 16Mhz XTAL
+Added Member To Class: ClassName=Sch_CDA Member=Component C1 Cap
+Added Member To Class: ClassName=Sch_CDA Member=Component C2 Cap
+Added Room: Name=Sch_CDA

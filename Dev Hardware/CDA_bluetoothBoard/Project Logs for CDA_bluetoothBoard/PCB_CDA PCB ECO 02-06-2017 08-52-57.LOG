@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND-12V Pin=bat-2
+Removed Pin From Net: NetName=GND-12V Pin=Lock-2
+Removed Member From Class: ClassName=Sch_CDA Member=bat
+Removed Member From Class: ClassName=Sch_CDA Member=Lock
+Added Component: Designator=conecs(AK550/4)
+Added Pin To Net: NetName=GND-12V Pin=conecs-2
+Added Pin To Net: NetName=GND-12V Pin=conecs-3
+Change Net Name : Old Net Name=GND-12V New Net Name=GND-9V
+Added Pin To Net: NetName=Netconecs_4 Pin=conecs-4
+Added Pin To Net: NetName=Netconecs_4 Pin=relay-5
+Added Net: Name=Netconecs_4
+Added Pin To Net: NetName=VCC-9V Pin=conecs-1
+Added Pin To Net: NetName=VCC-9V Pin=DREG-1
+Added Pin To Net: NetName=VCC-9V Pin=relay-2
+Added Net: Name=VCC-9V
+Added Member To Class: ClassName=Sch_CDA Member=Component conecs Bt - Tv
+Added Room: Name=Sch_CDA

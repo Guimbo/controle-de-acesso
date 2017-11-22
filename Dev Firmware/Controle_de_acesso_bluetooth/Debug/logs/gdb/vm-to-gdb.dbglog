@@ -1,0 +1,6 @@
+1001-gdb-set target-async on
+1002-gdb-set solib-search-path "C:\\Users\\guias\\AppData\\Local\\Temp\\VMBuilds\\Controle_de_acesso_bluetooth\\uno\\Debug;"
+1003-gdb-set stop-on-solib-events 1
+1009-target-select remote localhost:3333
+monitor reset halt
+monitor reset init

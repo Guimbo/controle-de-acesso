@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC-9V Pin=Relay-2
+Added Pin To Net: NetName=VCC-9V Pin=Relay-7
+Added Room: Name=Sch_CDA

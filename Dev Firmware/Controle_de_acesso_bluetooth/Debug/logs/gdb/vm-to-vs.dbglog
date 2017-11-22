@@ -1,0 +1,19 @@
+(gdb)
+1001^done(ignored)
+GDB FileName:	C:\Program Files (x86)\Arduino\hardware\tools\avr/bin/avr-gdb
+GDB Working Dir:	
+GDB Args:	-interpreter=mi -d "C:\Users\guias\Desktop\Controle de acesso\controle-de-acesso\Dev Firmware\Controle_de_acesso_bluetooth"
+1002^done
+(gdb) 
+1003^done
+(gdb) 
+1004^done(ignored)
+1005^done(ignored)
+&"file \"C:\\\\Users\\\\guias\\\\AppData\\\\Local\\\\Temp\\\\VMBuilds\\\\Controle_de_acesso_bluetooth\\\\uno\\\\Debug\\\\Controle_de_acesso_bluetooth.ino.elf\"\n"
+~"Reading symbols from C:\\Users\\guias\\AppData\\Local\\Temp\\VMBuilds\\Controle_de_acesso_bluetooth\\uno\\Debug\\Controle_de_acesso_bluetooth.ino.elf..."
+~"done.\n"
+1006^done
+(gdb) 
+1007^done(ignored)
+1008^done(ignored)
+1009^done(ignored)

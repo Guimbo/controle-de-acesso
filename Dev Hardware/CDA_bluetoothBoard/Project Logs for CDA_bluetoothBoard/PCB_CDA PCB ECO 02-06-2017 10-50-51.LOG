@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=L? NewDesignator=LEDV
+Added Component: Designator=LEDR(LED100)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=GND-9V Pin=LEDR-2
+Added Pin To Net: NetName=GND-9V Pin=LEDV-2
+Added Pin To Net: NetName=Netconecs_4 Pin=R?-1
+Added Pin To Net: NetName=NetArduino_7 Pin=R?-2
+Added Pin To Net: NetName=NetLEDR_1 Pin=LEDR-1
+Added Pin To Net: NetName=NetLEDR_1 Pin=R?-1
+Added Net: Name=NetLEDR_1
+Added Pin To Net: NetName=NetLEDV_1 Pin=LEDV-1
+Added Pin To Net: NetName=NetLEDV_1 Pin=R?-2
+Added Net: Name=NetLEDV_1
+Added Member To Class: ClassName=Sch_CDA Member=Component LEDR LED
+Added Member To Class: ClassName=Sch_CDA Member=Component R? Res2
+Added Room: Name=Sch_CDA

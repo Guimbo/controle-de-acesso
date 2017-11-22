@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND-12V Pin=RTC pin-2
+Removed Pin From Net: NetName=NetArduino_7 Pin=RTC pin-3
+Removed Pin From Net: NetName=NetArduino_28 Pin=RTC pin-4
+Removed Pin From Net: NetName=NetArduino_27 Pin=RTC pin-5
+Added Pin To Net: NetName=NetArduino_27 Pin=RTC-2
+Added Pin To Net: NetName=NetArduino_28 Pin=RTC-3
+Added Pin To Net: NetName=NetArduino_7 Pin=RTC-4
+Added Pin To Net: NetName=GND-12V Pin=RTC-5
+Added Room: Name=Sch_CDA

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND-9V Pin=Pgrav-1
+Removed Pin From Net: NetName=NetArduino_7 Pin=Pgrav-2
+Added Pin To Net: NetName=NetArduino_7 Pin=Pgrav-1
+Added Pin To Net: NetName=GND-9V Pin=Pgrav-2
+Added Room: Name=Sch_CDA

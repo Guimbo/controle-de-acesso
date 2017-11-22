@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetArduino_2 Pin=Bluetooth-4
+Removed Pin From Net: NetName=NetArduino_3 Pin=Bluetooth-5
+Added Pin To Net: NetName=NetArduino_3 Pin=Bluetooth-4
+Added Pin To Net: NetName=NetArduino_2 Pin=Bluetooth-5

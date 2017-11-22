@@ -1,0 +1,97 @@
+Added Component: Designator=100nF(RAD-0.3)
+Added Component: Designator=100nF(RAD-0.3)
+Added Component: Designator=Bateria(HDR1X2)
+Added Component: Designator=Bluetooth(HDR1X7)
+Added Component: Designator=C-trava(HDR1X4)
+Added Component: Designator=D1(DO-41)
+Added Component: Designator=D?(DO-35)
+Added Component: Designator=Pinos de gravação(HDR1X5)
+Added Component: Designator=Q?(TO-92A)
+Added Component: Designator=R5(AXIAL-0.4)
+Added Component: Designator=RELE(RELE)
+Added Component: Designator=RTC pin(HDR1X7)
+Added Component: Designator=RTC(HDR1X5)
+Added Component: Designator=SD- Reader(HDR1X8)
+Added Component: Designator=U?(78L05)
+Added Component: Designator=U?(28P3)
+Added Pin To Net: NetName=GND-12V Pin=100nF-1
+Added Pin To Net: NetName=GND-12V Pin=100nF-2
+Added Pin To Net: NetName=GND-12V Pin=Bateria-2
+Added Pin To Net: NetName=GND-12V Pin=Bluetooth-2
+Added Pin To Net: NetName=GND-12V Pin=Pinos de gravação-1
+Added Pin To Net: NetName=GND-12V Pin=Q?-1
+Added Pin To Net: NetName=GND-12V Pin=RTC pin-2
+Added Pin To Net: NetName=GND-12V Pin=SD- Reader-1
+Added Pin To Net: NetName=GND-12V Pin=SD- Reader-8
+Added Pin To Net: NetName=GND-12V Pin=U?-8
+Added Pin To Net: NetName=GND-12V Pin=U?-22
+Added Net: Name=GND-12V
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net100nF_1 Pin=100nF-1
+Added Pin To Net: NetName=Net100nF_1 Pin=Bluetooth-1
+Added Pin To Net: NetName=Net100nF_1 Pin=D1-2
+Added Pin To Net: NetName=Net100nF_1 Pin=Pinos de gravação-2
+Added Pin To Net: NetName=Net100nF_1 Pin=RELE-1
+Added Pin To Net: NetName=Net100nF_1 Pin=RTC pin-3
+Added Pin To Net: NetName=Net100nF_1 Pin=SD- Reader-6
+Added Pin To Net: NetName=Net100nF_1 Pin=U?-1
+Added Pin To Net: NetName=Net100nF_1 Pin=U?-7
+Added Pin To Net: NetName=Net100nF_1 Pin=U?-20
+Added Net: Name=Net100nF_1
+Added Pin To Net: NetName=Net100nF_2 Pin=100nF-2
+Added Pin To Net: NetName=Net100nF_2 Pin=D?-2
+Added Pin To Net: NetName=Net100nF_2 Pin=U?-3
+Added Net: Name=Net100nF_2
+Added Pin To Net: NetName=NetBluetooth_3 Pin=Bluetooth-3
+Added Pin To Net: NetName=NetBluetooth_3 Pin=Pinos de gravação-4
+Added Pin To Net: NetName=NetBluetooth_3 Pin=U?-3
+Added Net: Name=NetBluetooth_3
+Added Pin To Net: NetName=NetBluetooth_4 Pin=Bluetooth-4
+Added Pin To Net: NetName=NetBluetooth_4 Pin=Pinos de gravação-3
+Added Pin To Net: NetName=NetBluetooth_4 Pin=U?-2
+Added Net: Name=NetBluetooth_4
+Added Pin To Net: NetName=NetC-trava_1 Pin=C-trava-1
+Added Pin To Net: NetName=NetC-trava_1 Pin=RELE-4
+Added Net: Name=NetC-trava_1
+Added Pin To Net: NetName=NetC-trava_2 Pin=C-trava-2
+Added Pin To Net: NetName=NetC-trava_2 Pin=C-trava-3
+Added Net: Name=NetC-trava_2
+Added Pin To Net: NetName=NetC-trava_4 Pin=C-trava-4
+Added Pin To Net: NetName=NetC-trava_4 Pin=RELE-5
+Added Net: Name=NetC-trava_4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q?-3
+Added Pin To Net: NetName=NetD1_1 Pin=RELE-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetPinos de gravação_5 Pin=Pinos de gravação-5
+Added Pin To Net: NetName=NetPinos de gravação_5 Pin=U?-1
+Added Net: Name=NetPinos de gravação_5
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R5-2
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetRTC pin_4 Pin=RTC pin-4
+Added Pin To Net: NetName=NetRTC pin_4 Pin=U?-28
+Added Net: Name=NetRTC pin_4
+Added Pin To Net: NetName=NetRTC pin_5 Pin=RTC pin-5
+Added Pin To Net: NetName=NetRTC pin_5 Pin=U?-27
+Added Net: Name=NetRTC pin_5
+Added Pin To Net: NetName=NetSD- Reader_2 Pin=SD- Reader-2
+Added Pin To Net: NetName=NetSD- Reader_2 Pin=U?-18
+Added Net: Name=NetSD- Reader_2
+Added Pin To Net: NetName=NetSD- Reader_3 Pin=SD- Reader-3
+Added Pin To Net: NetName=NetSD- Reader_3 Pin=U?-19
+Added Net: Name=NetSD- Reader_3
+Added Pin To Net: NetName=NetSD- Reader_4 Pin=SD- Reader-4
+Added Pin To Net: NetName=NetSD- Reader_4 Pin=U?-17
+Added Net: Name=NetSD- Reader_4
+Added Pin To Net: NetName=NetSD- Reader_5 Pin=SD- Reader-5
+Added Pin To Net: NetName=NetSD- Reader_5 Pin=U?-6
+Added Net: Name=NetSD- Reader_5
+Added Pin To Net: NetName=VCC-12V Pin=Bateria-1
+Added Pin To Net: NetName=VCC-12V Pin=D?-1
+Added Net: Name=VCC-12V
+Added Class: Name=Sch_CDA
+Added Room: Name=Sch_CDA

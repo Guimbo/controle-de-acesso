@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetArduino_7 Pin=Bluetooth-1
+Removed Pin From Net: NetName=NetArduino_3 Pin=Bluetooth-3
+Added Pin To Net: NetName=NetArduino_3 Pin=Bluetooth-5
+Added Pin To Net: NetName=NetArduino_7 Pin=Bluetooth-7
+Added Pin To Net: NetName=NetBluetooth_6 Pin=Bluetooth-6
+Added Pin To Net: NetName=NetBluetooth_6 Pin=SD- Reader-8
+Added Pin To Net: NetName=NetBluetooth_6 Pin=Trs-1
+Added Net: Name=NetBluetooth_6
+Added Room: Name=Sch_CDA

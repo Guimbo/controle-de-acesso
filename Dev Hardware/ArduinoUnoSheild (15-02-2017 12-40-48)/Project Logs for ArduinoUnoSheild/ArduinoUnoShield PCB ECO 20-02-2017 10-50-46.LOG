@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC-trava_1 Pin=C-Trava-4
+Removed Pin From Net: NetName=NetC-trava_1 Pin=RL?-3
+Removed Pin From Net: NetName=NetC-trava_2 Pin=RL?-4
+Added Pin To Net: NetName=NetC-trava_2 Pin=C-Trava-3
+Added Pin To Net: NetName=NetC-trava_2 Pin=RL?-3
+Added Pin To Net: NetName=NetC-trava_1 Pin=RL?-4
+Added Pin To Net: NetName=NetC-trava_4 Pin=C-Trava-4
+Added Pin To Net: NetName=NetC-trava_4 Pin=RL?-5
+Added Net: Name=NetC-trava_4
+Added Room: Name=ArduinoUnoShield
